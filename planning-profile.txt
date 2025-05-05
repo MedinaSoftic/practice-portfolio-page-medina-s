@@ -31,11 +31,22 @@ Step 4: Test and Iterate
 
 
 Head
-Medina Softic
+Tab list of Home page/portfolio/GitHub
+
+Medina Softic (banner)
+
+Sectiopn to left 
 Image of self
+short "about me"
+
+section in center 
 Software Developer
 Launchcode Graduate
-Link to profile
+skill list
+
+footer
+Link for the art used for tabs 
+
 
 
 
